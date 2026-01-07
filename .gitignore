@@ -1,0 +1,7 @@
+*.terraform
+*terraform.tfstate.backup
+*terraform.tfstate
+*.terraform.lock.hcl
+*.terraform.tfstate.backup
+*.awscliv2.zip
+
